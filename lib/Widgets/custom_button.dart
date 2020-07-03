@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'Utils/colors.dart';
+import '../Utils/colors.dart';
 
 ButtonTheme raisedButton(
     {VoidCallback onClick,
